@@ -1,14 +1,12 @@
-# xcode noise
+# Xcode noise
 build/**
-iPhone/build/**
-iPad/build/**
 *.pbxuser
 *.perspectivev3
 *.mode1v3
+
 # Xcode 4 noise
 *.xcworkspace
 xcuserdata
-dist
 
 # old skool
 .svn
@@ -16,5 +14,6 @@ dist
 
 # osx noise
 .DS_Store
-#profile
 
+# Kit
+dist
